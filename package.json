@@ -6,5 +6,8 @@
     "botbuilder": "^4.14.1",
     "restify": "^8.5.1",
     "dotenv": "^10.0.0"
+  },
+    "scripts": {
+    "start": "node index.js"
   }
 }
